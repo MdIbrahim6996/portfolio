@@ -15,7 +15,7 @@ const projects = [
         githubUrl: "#",
     },
         {
-        id: 0,
+        id: 1,
         title: "GlistenAi",
         description: "A beautiful Landing Page Web App using React and Tailwind.",
         image: "/projects/glistenai.png",
@@ -28,7 +28,7 @@ const projects = [
         githubUrl: "#",
     },
     {
-        id: 1,
+        id: 2,
         title: "LinkIn",
         description: "A beautiful Job Search Web App using React and Tailwind.",
         image: "/projects/linkedin.png",
@@ -44,7 +44,7 @@ const projects = [
         githubUrl: "#",
     },
     {
-        id: 2,
+        id: 3,
         title: "Blogz",
         description:
             " A full stack blogging web app with Interactive analytics dashboard with data visualization and filtering capabilities.",
@@ -62,7 +62,7 @@ const projects = [
         githubUrl: "#",
     },
     {
-        id: 3,
+        id: 4,
         title: "News Platform",
         description:
             "Full-featured superfast news platform with caching and preloading.",
