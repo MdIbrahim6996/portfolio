@@ -1,6 +1,19 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
+           {
+        id: 0,
+        title: "Redefine",
+        description: "A beautiful Video Game Landing Page Web App using React and Tailwind.",
+        image: "/projects/redefine.png",
+        tags: [
+            "React",
+            "GSAP",
+            "TailwindCSS",
+        ],
+        demoUrl: "https://awards-7bvm.vercel.app/,
+        githubUrl: "#",
+    },
         {
         id: 0,
         title: "GlistenAi",
