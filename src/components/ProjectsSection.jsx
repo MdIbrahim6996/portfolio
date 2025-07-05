@@ -1,6 +1,19 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
+        {
+        id: 0,
+        title: "GlistenAi",
+        description: "A beautiful Landing Page Web App using React and Tailwind.",
+        image: "/projects/glistenai.png",
+        tags: [
+            "React",
+            "GSAP",
+            "TailwindCSS",
+        ],
+        demoUrl: "https://glisten-demo.netlify.app/",
+        githubUrl: "#",
+    },
     {
         id: 1,
         title: "LinkIn",
