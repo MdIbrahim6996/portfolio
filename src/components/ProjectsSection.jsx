@@ -1,29 +1,23 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
-           {
+    {
         id: 0,
         title: "Redefine",
-        description: "A beautiful Video Game Landing Page Web App using React and Tailwind.",
+        description:
+            "A beautiful Video Game Landing Page Web App using React and Tailwind.",
         image: "/projects/redefine.png",
-        tags: [
-            "React",
-            "GSAP",
-            "TailwindCSS",
-        ],
-        demoUrl: "https://awards-7bvm.vercel.app/,
+        tags: ["React", "GSAP", "TailwindCSS"],
+        demoUrl: "https://awards-7bvm.vercel.app/",
         githubUrl: "#",
     },
-        {
+    {
         id: 1,
         title: "GlistenAi",
-        description: "A beautiful Landing Page Web App using React and Tailwind.",
+        description:
+            "A beautiful Landing Page Web App using React and Tailwind.",
         image: "/projects/glistenai.png",
-        tags: [
-            "React",
-            "GSAP",
-            "TailwindCSS",
-        ],
+        tags: ["React", "GSAP", "TailwindCSS"],
         demoUrl: "https://glisten-demo.netlify.app/",
         githubUrl: "#",
     },
